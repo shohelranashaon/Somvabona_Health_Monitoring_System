@@ -16,6 +16,10 @@ I tested both the **Web** and **Mobile** apps manually to make sure everything w
 
 ---
 
+## Test Report
+- **Excel File Link** - https://docs.google.com/spreadsheets/d/1PpxoeGloIWLn41XkE0zZ4l7EmKC1luc4_eD2WaaMfV4/edit?usp=sharing
+
+- 
 ## 🧪 Types of Testing
 - Manual Testing (Functional, UI, Regression)  
 - API Testing (Postman)  
@@ -33,11 +37,7 @@ I tested both the **Web** and **Mobile** apps manually to make sure everything w
 
 ---
 
-## 📂 Documents in this Project
-- Test Plan  
-- Test Cases  
-- Bug Report (Excel)  
-- Test Report (Excel)  
 
----
+
+
 
